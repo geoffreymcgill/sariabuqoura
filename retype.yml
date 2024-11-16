@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: docs.securing-the-future.com # Add your website here
 branding:
-  title: Securing The Future
+  title: The Future
   label: Docs
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
