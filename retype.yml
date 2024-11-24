@@ -10,3 +10,5 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 
 footer:
   copyright: "&copy; Copyright . All rights reserved."
+
+poweredByRetype: false  
