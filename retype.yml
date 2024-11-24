@@ -4,11 +4,7 @@ url: docs.securing-the-future.com # Add your website here
 branding:
   title: The Future
   label: Docs
-poweredByRetype: true # Set to false to remove the Powered by Retype branding.
-                      # A Retype Pro license is required.
-                      # See: https://retype.com/pro
-
+poweredByRetype: false
 footer:
   copyright: "&copy; Copyright . All rights reserved."
 
-poweredByRetype: false  
