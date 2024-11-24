@@ -1,2 +1,4 @@
 icon: rocket
 visibility: protected
+retype start --password ${{ secrets.RETYPE_PASSWORD }} 
+retype build --password ${{ secrets.RETYPE_PASSWORD }}
