@@ -1,7 +1,7 @@
 ---
 icon: workflow
 label: ConfigMap
-order: 1
+order: 2
 ---
 ## Write simple HTTP Get code
 
