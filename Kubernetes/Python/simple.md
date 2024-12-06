@@ -1,5 +1,6 @@
 ---
 icon: workflow
+label: Simple Code
 ---
 
 # Write simple HTTP Get code
