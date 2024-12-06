@@ -1,5 +1,5 @@
 ---
-icon: /static/images/k8.webp
+icon: workflow
 ---
 
 # Write simple HTTP Get code
