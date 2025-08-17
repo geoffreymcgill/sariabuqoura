@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: docs.cynebula.com # Add your website here
 branding:
-  title: The Future
+  title: CyNebula
   label: Docs
 poweredByRetype: false
 footer:
