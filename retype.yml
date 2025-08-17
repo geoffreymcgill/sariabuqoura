@@ -2,6 +2,7 @@ poweredByRetype: false
 input: .
 output: .retype
 url: docs.cynebula.com # Add your website here
+url: https://docs.cynebula.com # Can also include a protocol
 branding:
   title: CyNebula
   label: Docs
