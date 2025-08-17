@@ -1,10 +1,10 @@
+poweredByRetype: false 
 input: .
 output: .retype
 url: docs.cynebula.com # Add your website here
 branding:
   title: CyNebula
   label: Docs
-poweredByRetype: false
 footer:
   copyright: "&copy; Copyright . All rights reserved."
 
