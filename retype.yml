@@ -6,7 +6,7 @@ url: https://docs.cynebula.com # Can also include a protocol
 branding:
   title: CyNebula
   label: Docs
-  logo: static/corpnebula.png
+  logo: static/images/corpnebula-Photoroom.png
 footer:
   copyright: "&copy; Copyright . All rights reserved."
 
