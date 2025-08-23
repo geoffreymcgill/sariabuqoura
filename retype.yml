@@ -7,6 +7,10 @@ branding:
   title: CyNebula
   label: Docs
   logo: static/images/corpnebula-Photoroom.png
+links:
+  - text: Visit example.com
+    icon: globe
+    link: https://CyNebula.com
 footer:
   copyright: "&copy; Copyright . All rights reserved."
 
