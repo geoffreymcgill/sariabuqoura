@@ -46,11 +46,6 @@ branding:
   title: CyNebula
   label: Docs
   logo: static/images/corpnebula-Photoroom.png
-  colors:
-   label:                    # Label colors
-     text: "#ffffff"         # Custom color for the label text
-     background: "#ff0000"   # Custom color for the label background
-
 
 # -----------------------------------------------------------------------------
 
