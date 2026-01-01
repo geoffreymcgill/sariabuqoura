@@ -8,4 +8,4 @@ This page will be visible in the main navigation, but will require a password to
 
 The password is `test`.
 
-
+:::code source="protected.md" :::
