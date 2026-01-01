@@ -1,16 +1,74 @@
-poweredByRetype: false 
+# -----------------------------------------------------------------------------
+# Retype Pro
+# -----------------------------------------------------------------------------
+
+poweredByRetype: false        # Set to false to remove "Powered by Retype"
+                              # A Retype Pro license is required
+                              # See: https://retype.com/pro
+
+# -----------------------------------------------------------------------------
+
+breadcrumb:
+  enabled: true               # Enabled by default on Pro projects
+  home: Home                  # Custom label for the first item
+  home: ":icon-home:"         # or, use an icon
+  separator: "|"              # Custom item separator
+
+# -----------------------------------------------------------------------------
+outbound:
+  enabled: true               # Enabled by default on Pro projects
+  custom: 'rel="noopener noreferrer"' # custom attribute added to links
+  icon: link-external         # A custom icon name, :emoji:, <svg>, or
+                              # a path to a file
+  iconAlign: left             # Icon alignment, to the left or right
+  target: blank               # Custom target
+                              # Use "blank" to open link in a new window
+
+
+
+# -----------------------------------------------------------------------------
+# Retype
+# -----------------------------------------------------------------------------
+
 input: .
+
+# -----------------------------------------------------------------------------
+
 output: .retype
+# -----------------------------------------------------------------------------
+
+
 url: docs.cynebula.com # Add your website here
 url: https://docs.cynebula.com # Can also include a protocol
+
+# -----------------------------------------------------------------------------
 branding:
   title: CyNebula
   label: Docs
   logo: static/images/corpnebula-Photoroom.png
+  colors:
+   label:                    # Label colors
+     text: "#ffffff"         # Custom color for the label text
+     background: "#ff0000"   # Custom color for the label background
+
+
+# -----------------------------------------------------------------------------
+
 links:
   - text: Visit CyNebula
     icon: globe
     link: https://CyNebula.com
+
+# -----------------------------------------------------------------------------
+
+
 footer:
   copyright: "&copy; Copyright . All rights reserved."
+  links:                      # A list of links to include in the footer
+                              # See also: links
+    - text: License           # The text to use for the link
+      link: license.md        # Point to an internal file or external URL
 
+# -----------------------------------------------------------------------------
+
+showSidebarFilter: true       # Control visibility of filter component in sidebar
