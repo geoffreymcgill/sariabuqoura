@@ -9,6 +9,6 @@ order: 1
 test 1 2 34 5
 
 ## :icon-code: Source
-[!file Download retype.yml](/static/retype.yml)
+[!file Download favicon.ico](/static/favicon.ico)
 
-:::code source="/static/retype.yml" title="retype.yml" :::
+:::code source="/static/favicon.ico" title=favicon.ico" :::
