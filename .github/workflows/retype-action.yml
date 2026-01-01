@@ -26,7 +26,6 @@ jobs:
          license: ${{ secrets.RETYPE_SECRET }}
          update-branch: true
         env:
-          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
           RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
 
         
