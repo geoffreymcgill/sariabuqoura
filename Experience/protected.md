@@ -1,6 +1,6 @@
 ---
 icon: file
-visibility: protected
+
 ---
 # Protected page
 
