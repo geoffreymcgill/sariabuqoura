@@ -24,10 +24,10 @@ jobs:
       - uses: retypeapp/action-build@latest
         with:
          license: ${{ secrets.RETYPE_SECRET }}
-      - uses: retypeapp/action-github-pages@latest
-        with:
-          update-branch: true
-      - uses: retypeapp/action-build@latest
+         update-branch: true
         env:
           RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
           RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
+
+        
+       
