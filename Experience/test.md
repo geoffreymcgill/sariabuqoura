@@ -9,6 +9,6 @@ order: 1
 test 1 2 34 5
 
 ## :icon-code: Source
-[!file Download favicon.ico](/static/favicon.ico)
+[!file Download favicon.ico](/static/images/favicon.ico)
 
-:::code source="/static/favicon.ico" title=favicon.ico" :::
+:::code source="/static/images/favicon.ico" title=favicon.ico" :::
