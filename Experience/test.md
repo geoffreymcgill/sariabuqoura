@@ -9,7 +9,6 @@ order: 1
 test 1 2 34 5
 
 ## :icon-code: Source
+[!file Download retype.yml](/static/retype.yml)
 
-[!file Download]({{ path }})
-
-:::code source="{{ path }}" title="{{ title }}" :::
+:::code source="/static/retype.yml" title="retype.yml" :::
