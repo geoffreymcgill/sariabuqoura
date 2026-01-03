@@ -3,7 +3,7 @@ icon: tools
 backlinks:
   enabled: false
 nav:
-  badge: NEW
+  mode: stack # Pro key required
 ---
 
 # Components
