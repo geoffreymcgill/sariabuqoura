@@ -2,8 +2,6 @@
 icon: tools
 backlinks:
   enabled: false
-nav:
-  mode: stack # Pro key required
 ---
 
 # Components
