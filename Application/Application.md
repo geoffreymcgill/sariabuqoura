@@ -4,7 +4,7 @@ backlinks:
   enabled: false
 ---
 
-# Components
+# Application
 
 Retype Flavored [Markdown](/guides/formatting.md) (RFM) supports custom **Components**, including:
 
