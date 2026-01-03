@@ -2,7 +2,18 @@
 icon: tools
 backlinks:
   enabled: false
+category: news
+categories: news
+category: [news, general]
+categories: [news, general]
+category:
+  - news
+  - general
+categories:
+  - news
+  - general
 ---
+
 # Components
 
 Retype Flavored [Markdown](/guides/formatting.md) (RFM) supports custom **Components**, including:
