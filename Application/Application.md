@@ -2,16 +2,8 @@
 icon: tools
 backlinks:
   enabled: false
-category: news
-categories: news
-category: [news, general]
-categories: [news, general]
-category:
-  - news
-  - general
-categories:
-  - news
-  - general
+nav:
+  badge: NEW
 ---
 
 # Components
