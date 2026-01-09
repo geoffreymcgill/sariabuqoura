@@ -1,7 +1,7 @@
 ---
 label: How To Start
 layout: page
-order: 1
+order: 2
 icon: rocket
 ---
 # How To Start!
