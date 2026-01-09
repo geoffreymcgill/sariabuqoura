@@ -4,4 +4,4 @@ icon: book
 order: 999
 ---
 
-# NIST Cybersecurity Framework (CSF)
+# NIST Cybersecurity (CSF)
