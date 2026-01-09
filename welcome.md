@@ -1,4 +1,9 @@
-
+---
+label: Welcome
+layout: page
+order: 1
+icon: rocket
+---
 # Welcome to Your Practical Cybersecurity Knowledge Hub
 
 This platform is built for security professionals who need clear, actionable guidance, not just theory.
