@@ -1,6 +1,5 @@
 ---
 label: Welcome
-layout: page
 order: 1
 icon: rocket
 ---
