@@ -17,7 +17,7 @@ The CSF does not prescribe how outcomes should be achieved. Rather, it links to 
 > * Outcomes are clear, measurable security results that an organization aims to achieve — not tools, not technologies, and not processes.
 > * Outcomes describe the desired security state
 > * Controls, Tools, and Processes exist only to achieve these outcomes. 
-> * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”.
+> * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”, Technology-agnostic (no vendor lock-in)
 
 
 !!!warning Warning
