@@ -23,14 +23,45 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 !!!
 
 ## CSF Components
+!!!
+This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
+Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
+!!!
 
 ### CSF Core
-high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks. The CSF Core components are a hierarchy of Functions, Categories, and Subcategories that detail each outcome. 
+A taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks
+
+| Function      | Category                                                       | Subcategory |
+|---------------|----------------------------------------------------------------|-------------|
+| Govern (GV)   | GV.OC: Organizational Context                                  | GV.OC-01,05 |
+|               | GV.RM: Risk Management Strategy                                | GV.RM-01,07 |
+|               | GV.RR: Roles, Responsibilities, and Authorities                | GV.RR-01,04 |
+|               | GV.PO: Policy                                                  | GV.PO-01,02 |
+|               | GV.OV: Oversight                                               | GV.OV-01,03 |
+|               | GV.SC: Cybersecurity Supply Chain Risk Management              | GV.SC-01,10 |
+| Identify (ID) | ID.AM: Asset Management                                        |             |
+|               | ID.RA: Risk Assessment                                         |             |
+|               | ID.IM: Improvement                                             |             |
+| Protect (PR)  | PR.AA: Identity Management, Authentication, and Access Control |             |
+|               | PR.AT: Awareness and Training                                  |             |
+|               | PR.DS: Data Security                                           |             |
+|               | PR.PS: Platform Security                                       |             |
+|               | PR.IR: Technology Infrastructure Resilience                    |             |
+| Detect (DE)   | DE.CM: Continuous Monitoring                                   |             |
+|               | DE.AE: Adverse Event Analysis                                  |             |
+| Respond (RS)  | RS.MA: Incident Management                                     |             |
+|               | RS.AN: Incident Analysis                                       |             |
+|               | RS.CO: Incident Response Reporting and Communication           |             |
+|               | RS.MI: Incident Mitigation                                     |             |
+| Recover (RC)  | RC.RP: Incident Recovery Plan Execution                        |             |
+|               | RC.CO: Incident Recovery Communication                         |             |
+
+
+
 ### CSF Organizational Profiles
-Mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
+A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
 ### CSF Tiers
-Characterize the rigor of an organization’s cybersecurity risk governance and management practices.
-Tiers can also provide context for how an organization views cybersecurity risks and the processes in place to manage those risks.
+Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices
 
 ### What
 
