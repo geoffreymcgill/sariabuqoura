@@ -15,13 +15,9 @@ Our mission is to bridge the gap between frameworks, standards, and real-world i
 You will find structured guidance that answers the most critical questions in cybersecurity:
 
 - [x] What should be implemented
-
 - [x] Why it matters
-
 - [x] When it is required
-
 - [x] How to implement it effectively
-
 - [x] Where it fits within your security architecture and organization
 
 ## Acknowledgment  
