@@ -4,7 +4,7 @@ icon: rocket
 order: 999
 ---
 !!!
-Last Update on Jan, 2026. 
+Last Update on Jan, 2026...
 !!!
 
 # The Starting Point
