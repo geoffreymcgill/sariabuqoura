@@ -22,13 +22,14 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 * The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 !!!
 
-## CSF Components
+## CSF 
 !!!
 This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
 
 Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
 !!!
 
+### Components 
 ==- CSF Core
 A taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks
 
@@ -42,44 +43,11 @@ A mechanism for describing an organization’s current and/or target cybersecuri
 Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices.
 ===
 
-### What
-
-A risk-based cybersecurity framework that defines what security outcomes should be achieved across the organization through five functions:
-* Identify.
-* Protect.
-* Detect.
-* Respond.
-* Recover.
-
-### Why
-
-* Establishes a common language between business and security teams
-* Enables risk-driven decision making instead of tool-driven security
-* Improves resilience and incident readiness
-* Supports regulatory, audit, and governance expectations
-
-### When
-
-* When establishing or improving a cybersecurity program
-* In regulated or high-risk environments (e.g., banking, critical infrastructure)
-* After incidents, audit findings, or risk assessments
-* When leadership requires visibility into cybersecurity risk
-
-### How
-
-* Identify critical assets, services, and risks
-* Assess current controls against CSF functions
-* Define a target security posture (Target Profile)
-* Build and execute a prioritized improvement roadmap
-* Continuously measure, review, and mature capabilities
-
-### Where
-
-* At the governance and risk management layer
-* As a bridge between business strategy and technical controls
-* Integrated with standards like ISO 27001, CIS Controls, COBIT
-* Applied organization-wide across IT, security, risk, and operations
-
+### Components Benefit 
+An organization can use the `CSF Core`, `Profiles`, and `Tiers` with the supplementary resources to:
+* Understand, assess. (Describe the current or target cybersecurity posture) 
+* Prioritize. (Identify, organize, and prioritize actions for managing cybersecurity risks)
+* Communicate cybersecurity risks.  (Provide a common language for communicating inside and outside the organization about cybersecurity risks, capabilities, needs, and expectations)
 
 
 
