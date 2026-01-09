@@ -24,6 +24,12 @@ outbound:
   target: blank               # Custom target
                               # Use "blank" to open link in a new window
 
+# -----------------------------------------------------------------------------
+branding:
+  title: Cynebula
+  label: Docs
+
+
 
 
 # -----------------------------------------------------------------------------
