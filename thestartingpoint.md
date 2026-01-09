@@ -18,13 +18,6 @@ Placing the autonomy of the CISO and the CISO's team outside the typical hierarc
 
 The term chief security officer (CSO) is sometimes used as an alternative to CISO, but in many organizations the CSO position is a subposition under the CISO that focuses on physical security. Another potential term for the CISO is information security officer (ISO), but this also can be used as a subposition under the CISO.
 
-
-## Man Power 
-
-
-## Skills 
-
-
 ## Checklist 
 - [x] Can you confirm that executive sponsorship has been secured.
 - [x] Schedule a brief recurring meeting (no more than 15 minutes) to update management.
