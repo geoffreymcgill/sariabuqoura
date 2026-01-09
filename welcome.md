@@ -5,6 +5,9 @@ icon: home
 ---
 # Practical Cybersecurity Knowledge
 
+!!! Last Update on Jan 9, 2026.
+
+
 ## Purpose
 This platform is built for security professionals who need clear, actionable guidance, not just theory.
 
