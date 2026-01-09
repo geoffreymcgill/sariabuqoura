@@ -21,3 +21,7 @@ This is a sample page demonstrating page metadata.
 {{ include "snippets/markdown-sample" }}
 ```
 ### Components and Settings
+
+---
+author: Frank
+---
