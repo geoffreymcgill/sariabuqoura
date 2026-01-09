@@ -21,7 +21,8 @@ The CSF does not prescribe how outcomes should be achieved. Rather, it links to 
 
 
 !!!warning Warning
-Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
+* Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
+* The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 !!!
 
 ## Framework Components & Usage 
