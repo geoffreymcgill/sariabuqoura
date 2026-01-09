@@ -1,10 +1,11 @@
 ---
+label: How To Start
+layout: page
 order: 1
 icon: rocket
-tags: [guide]
 ---
 # How To Start!
-
+This is a sample page demonstrating page metadata.
 
 ## What is Retype?
 ## Step 1: Installation
