@@ -1,6 +1,6 @@
 ---
 label: Welcome
-order: 1
+order: 1000
 icon: rocket
 ---
 # Welcome to Your Practical Cybersecurity Knowledge Hub
