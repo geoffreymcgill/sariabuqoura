@@ -13,7 +13,7 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 
 
-> [!NOTE] Custom Title
+> [!NOTE] Outcomes
 > * Outcomes are clear, measurable security results that an organization aims to achieve — not tools, not technologies, and not processes.
 > * Outcomes describe the desired security state
 > * Controls, Tools, and Processes exist only to achieve these outcomes. 
