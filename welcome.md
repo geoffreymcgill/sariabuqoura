@@ -4,7 +4,9 @@ order: 1000
 icon: home
 ---
 
-!!! Last Update on Jan 9, 2026. !!!
+!!!
+Last Update on Jan 9, 2026. 
+!!!
 
 # Practical Cybersecurity Knowledge
 
