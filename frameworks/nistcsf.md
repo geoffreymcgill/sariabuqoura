@@ -31,7 +31,9 @@ Descriptions of how an organization can achieve those outcomes are provided in a
 
 ### Components 
 ==- CSF Core
-A taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks
+A set of cybersecurity outcomes arranged by Function, then Category, and finally Subcategory, as shown in Fig.1. 
+The structure of the Core is intended to resonate most with those charged with operationalizing risk management within an organization.
+The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER.   
 
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
