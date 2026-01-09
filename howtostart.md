@@ -1,4 +1,9 @@
-
+---
+label: How To Start
+layout: page
+order: 1
+icon: rocket
+---
 # How To Start!
 # How To Start!
 # How To Start!
