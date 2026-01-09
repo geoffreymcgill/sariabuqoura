@@ -31,7 +31,7 @@ Descriptions of how an organization can achieve those outcomes are provided in a
 ==- CSF Core
 A taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks
 
-![](/static/images/CSFCore.png)
+![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
 ===
 ==- CSF Organizational Profiles
