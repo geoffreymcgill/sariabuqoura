@@ -29,8 +29,10 @@ branding:
   title: Cynebula
   label: Docs
 
-
-
+# -----------------------------------------------------------------------------
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
 
 # -----------------------------------------------------------------------------
 # Retype
