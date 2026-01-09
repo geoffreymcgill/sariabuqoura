@@ -9,9 +9,9 @@ icon: rocket
 Security management is a responsibility of upper management, not of the IT staff, and is considered an issue of business operations rather than IT administration. The team or department responsible for security within an organization should be autonomous.
 
 The information security (InfoSec) team should be led by a designated chief information security officer (CISO) who reports directly to senior management, such as 
-the chief information officer (CIO), 
-the chief executive officer (CEO), 
-or the board of directors. 
+* The chief information officer (CIO), 
+* The chief executive officer (CEO), 
+* or the board of directors. 
 
 Placing the autonomy of the CISO and the CISO's team outside the typical hierarchical structure in an organization can improve security management across the entire organization. It also helps avoid cross-department and internal political issues.
 
