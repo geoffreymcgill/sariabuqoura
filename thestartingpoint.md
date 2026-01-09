@@ -23,3 +23,8 @@ The term chief security officer (CSO) is sometimes used as an alternative to CIS
 
 
 ## Skills 
+
+
+## Checklist 
+-[X] Can you confirm that executive sponsorship has been secured.
+-[X] Schedule a brief recurring meeting (no more than 15 minutes) to update management.
