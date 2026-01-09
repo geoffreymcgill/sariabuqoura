@@ -9,7 +9,11 @@ order: 999
 ## What
 
 A risk-based cybersecurity framework that defines what security outcomes should be achieved across the organization through five functions:
-Identify, Protect, Detect, Respond, Recover.
+* Identify.
+* Protect.
+* Detect.
+* Respond.
+* Recover.
 
 ## Why
 
