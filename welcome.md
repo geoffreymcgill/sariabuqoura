@@ -1,7 +1,7 @@
 ---
 label: Welcome
 order: 1000
-icon: rocket
+icon: home
 ---
 # Welcome to Your Practical Cybersecurity Knowledge Hub
 
