@@ -24,3 +24,7 @@ This is a sample page demonstrating page metadata.
 {{ include "snippets/markdown-sample" }}
 ```
 ### Components and Settings
+
+
+## Source:
+* Manage the security function - Chapple, Mike- CISSP Official Study Guide-Sybex (2021) 
