@@ -5,7 +5,7 @@ icon: home
 ---
 
 !!!
-Last Update on Jan 9, 2026. 
+test
 !!!
 
 # Practical Cybersecurity Knowledge
