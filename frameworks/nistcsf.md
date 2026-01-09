@@ -22,7 +22,7 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 * The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 !!!
 
-## CSF 
+## Framework
 !!!
 This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
 
