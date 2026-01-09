@@ -25,6 +25,7 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 ## CSF Components
 !!!
 This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
+
 Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
 !!!
 
