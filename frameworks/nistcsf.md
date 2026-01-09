@@ -28,7 +28,7 @@ This document describes what desirable outcomes an organization can aspire to ac
 Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
 !!!
 
-### CSF Core
+=== CSF Core
 A taxonomy of high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks
 
 | Function      | Category                                                       | Subcategory |
@@ -57,11 +57,13 @@ A taxonomy of high-level cybersecurity outcomes that can help any organization m
 |               | RC.CO: Incident Recovery Communication                         |             |
 
 
-
-### CSF Organizational Profiles
+=== CSF Organizational Profiles
 A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
-### CSF Tiers
+===
+=== CSF Tiers
 Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices
+===
+
 
 ### What
 
