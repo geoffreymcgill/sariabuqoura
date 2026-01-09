@@ -5,7 +5,7 @@ icon: home
 ---
 # Practical Cybersecurity Knowledge
 
-!!! Last Update on Jan 9, 2026.!!!
+!!! Last Update on Jan 9, 2026. !!!
 
 
 ## Purpose
