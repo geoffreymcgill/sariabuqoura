@@ -26,12 +26,16 @@ The structure of the Core is intended to resonate most with those charged with o
 The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER.   
 
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
+
+![CSF Functions](/static/images/CSFFunctions.png)
 ===
 ==- 2- CSF Organizational Profiles
 A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes.
+![CSF Organizational Profile](/static/images/CSFOrganizationalProfile.png)
 ===
 ==- 3- CSF Tiers
 Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices.
+![CSF Tiers](/static/images/CSFTiers.png)
 ===
 
 ### Components Benefit 
