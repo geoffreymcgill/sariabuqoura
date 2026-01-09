@@ -20,18 +20,20 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 # Framework
 
 ## Components 
+
+#### CSF Core
 ==- CSF Core
 A set of cybersecurity outcomes arranged by Function, then Category, and finally Subcategory, as shown in Fig.1. 
 The structure of the Core is intended to resonate most with those charged with operationalizing risk management within an organization.
 The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER.   
 
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
-
-#### test
 ===
+#### CSF Organizational Profiles
 ==- CSF Organizational Profiles
 A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes.
 ===
+#### CSF Tiers
 ==- CSF Tiers
 Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices.
 ===
