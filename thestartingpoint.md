@@ -5,8 +5,7 @@ order: 999
 ---
 # The Starting Point
 
-## Manage the Security Function
-### Autonomous Authority 
+## Autonomous Authority 
 
 Security management is a responsibility of upper management, not of the IT staff, and is considered an issue of business operations rather than IT administration. The team or department responsible for security within an organization should be autonomous.
 
@@ -20,7 +19,7 @@ Placing the autonomy of the CISO and the CISO's team outside the typical hierarc
 The term chief security officer (CSO) is sometimes used as an alternative to CISO, but in many organizations the CSO position is a subposition under the CISO that focuses on physical security. Another potential term for the CISO is information security officer (ISO), but this also can be used as a subposition under the CISO.
 
 
-### Man Power 
+## Man Power 
 
 
-### Skills 
+## Skills 
