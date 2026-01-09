@@ -3,7 +3,7 @@ label: Welcome
 order: 1000
 icon: home
 ---
-# Welcome to Your Practical Cybersecurity Knowledge Hub
+# Practical Cybersecurity Knowledge
 
 ## Purpose
 This platform is built for security professionals who need clear, actionable guidance, not just theory.
