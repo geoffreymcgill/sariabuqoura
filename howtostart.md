@@ -1,6 +1,6 @@
 ---
 label: How To Start
-order: 2
+order: 999
 icon: rocket
 ---
 # How To Start!
