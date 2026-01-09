@@ -55,8 +55,6 @@ A taxonomy of high-level cybersecurity outcomes that can help any organization m
 |               | RS.MI: Incident Mitigation                                     |             |
 | Recover (RC)  | RC.RP: Incident Recovery Plan Execution                        |             |
 |               | RC.CO: Incident Recovery Communication                         |             |
-
-
 ==- CSF Organizational Profiles
 A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
 ===
