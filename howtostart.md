@@ -5,6 +5,8 @@ order: 1
 icon: rocket
 ---
 # How To Start!
+# How To Start!
+# How To Start!
 This is a sample page demonstrating page metadata.
 
 ## What is Retype?
