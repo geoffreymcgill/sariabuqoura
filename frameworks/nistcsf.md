@@ -17,17 +17,7 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 > * Controls, Tools, and Processes exist only to achieve these outcomes. 
 > * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”, Technology-agnostic (no vendor lock-in)
 
-!!!warning Warning
-* Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
-* The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
-!!!
-
 ## Framework
-!!!
-This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
-
-Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
-!!!
 
 ### Components 
 ==- CSF Core
@@ -52,7 +42,12 @@ An organization can use the `CSF Core`, `Profiles`, and `Tiers` with the supplem
 * Communicate cybersecurity risks.  (Provide a common language for communicating inside and outside the organization about cybersecurity risks, capabilities, needs, and expectations)
 
 
-
+!!!warning Warning
+* Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
+* The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
+* This document describes what desirable outcomes an organization can aspire to achieve. It does not prescribe outcomes nor how they may be achieved. 
+* Descriptions of how an organization can achieve those outcomes are provided in a suite of online resources that complement the CSF and are available through the NIST CSF website. https://www.nist.gov/cyberframework 
+!!!
 
 ## Sources
 * https://www.nist.gov/cyberframework
