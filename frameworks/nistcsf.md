@@ -22,7 +22,15 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 * The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 !!!
 
-## Framework Components & Usage 
+## CSF Components
+
+### CSF Core
+high-level cybersecurity outcomes that can help any organization manage its cybersecurity risks. The CSF Core components are a hierarchy of Functions, Categories, and Subcategories that detail each outcome. 
+### CSF Organizational Profiles
+Mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
+### CSF Tiers
+Characterize the rigor of an organization’s cybersecurity risk governance and management practices.
+Tiers can also provide context for how an organization views cybersecurity risks and the processes in place to manage those risks.
 
 ### What
 
