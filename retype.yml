@@ -5,7 +5,7 @@
 poweredByRetype: false        # Set to false to remove "Powered by Retype"
                               # A Retype Pro license is required
                               # See: https://retype.com/pro
-
+url: docs.cynebula.com
 # -----------------------------------------------------------------------------
 
 breadcrumb:
