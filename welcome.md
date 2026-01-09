@@ -14,15 +14,15 @@ Our mission is to bridge the gap between frameworks, standards, and real-world i
 ## Expectation 
 You will find structured guidance that answers the most critical questions in cybersecurity:
 
-* What should be implemented
+- [x] What should be implemented
 
-* Why it matters
+- [x] Why it matters
 
-* When it is required
+- [x] When it is required
 
-* How to implement it effectively
+- [x] How to implement it effectively
 
-* Where it fits within your security architecture and organization
+- [x] Where it fits within your security architecture and organization
 
 ## Acknowledgment  
 The content is designed to serve as a roadmap, helping you move confidently from planning to execution across all major security (domains technical), governance, risk, compliance, cloud, and operations.
