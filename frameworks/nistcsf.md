@@ -23,10 +23,9 @@ The CSF does not prescribe how outcomes should be achieved. Rather, it links to 
 
 [!file](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 
-!!!
+!!!warning Warning
 Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
 !!!
-
 
 ## Framework Components & Usage 
 
