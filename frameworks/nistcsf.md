@@ -57,10 +57,10 @@ A taxonomy of high-level cybersecurity outcomes that can help any organization m
 |               | RC.CO: Incident Recovery Communication                         |             |
 ===
 ==- CSF Organizational Profiles
-A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes
+A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes.
 ===
 ==- CSF Tiers
-Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices
+Can be applied to CSF Organizational Profiles to characterize the rigor of an organization’s cybersecurity risk governance and management practices.
 ===
 
 ### What
