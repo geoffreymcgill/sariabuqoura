@@ -12,18 +12,14 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 
 The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes.
 
-```md
+
 > [!NOTE] Custom Title
-> Useful information that users should know.
+> * Outcomes are clear, measurable security results that an organization aims to achieve — not tools, not technologies, and not processes.
+> * Outcomes describe the desired security state
+> * Controls, Tools, and Processes exist only to achieve these outcomes. 
+> * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”.
 
 
-* Outcomes are clear, measurable security results that an organization aims to achieve — not tools, not technologies, and not processes.
-* Outcomes describe the desired security state
-* Controls, Tools, and Processes exist only to achieve these outcomes. 
- 
-* Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”.
-
-```
 !!!warning Warning
 Before version 2.0, the Cybersecurity Framework was called the “Framework for Improving Critical Infrastructure Cybersecurity.” This title is not used for CSF 2.0. 
 !!!
