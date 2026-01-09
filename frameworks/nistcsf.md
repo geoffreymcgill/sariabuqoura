@@ -4,7 +4,7 @@ icon: book
 order: 999
 ---
 !!!
-Last Update on Jan, 2026. -hath ani
+Last Update on Jan, 2026.
 !!!
 
 # NIST Cybersecurity (CSF)
