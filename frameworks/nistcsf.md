@@ -1,5 +1,5 @@
 ---
-label: NIST Cybersecurity Framework
+label: NIST Cybersecurity
 icon: book 
 order: 999
 ---
