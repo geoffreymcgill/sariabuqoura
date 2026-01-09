@@ -17,9 +17,9 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 > * Controls, Tools, and Processes exist only to achieve these outcomes. 
 > * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”, Technology-agnostic (no vendor lock-in)
 
-## Framework
+# Framework
 
-### Components 
+## Components 
 ==- CSF Core
 A set of cybersecurity outcomes arranged by Function, then Category, and finally Subcategory, as shown in Fig.1. 
 The structure of the Core is intended to resonate most with those charged with operationalizing risk management within an organization.
