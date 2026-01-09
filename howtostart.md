@@ -1,6 +1,5 @@
 ---
 label: How To Start
-layout: page
 order: 2
 icon: rocket
 ---
