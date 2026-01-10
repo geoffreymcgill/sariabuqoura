@@ -21,7 +21,8 @@ The CSF describes desired outcomes that are intended to be understood by a broad
 > [!NOTE] Outcomes
 > * Outcomes are clear, measurable security results that an organization aims to achieve.
 > * Outcomes describe the desired security state.
-> * Controls, Tools, and Processes exist only to achieve these outcomes. 
+> * Controls, Tools, and Processes exist only to achieve these outcomes.
+> * Outcomes are mapped directly to a list of potential security controls for immediate consideration to mitigate cybersecurity risks.
 > * Example: “Unauthorized users are prevented from accessing systems”. This is an outcome, not “use firewall” or “install IAM tool”, Technology-agnostic (no vendor lock-in)
 
 ## Framework
