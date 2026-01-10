@@ -33,6 +33,14 @@ A set of cybersecurity outcomes arranged by Function, then Category, and finally
 The structure of the Core is intended to resonate most with those charged with operationalizing risk management within an organization.
 The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOVER.   
 
+* GOVERN: Function provides outcomes to inform what an organization may do to achieve and prioritize the outcomes of the other five Functions.
+* IDENTIFY: The organization’s current cybersecurity risks are understood.
+* PROTECT: Safeguards to manage the organization’s cybersecurity risks are used.
+* DETECT: Possible cybersecurity attacks and compromises are found and analyzed.
+* RESPOND: Actions regarding a detected cybersecurity incident are taken.
+* RECOVER: Assets and operations affected by a cybersecurity incident are restored.
+
+
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
 ![CSF Functions](/static/images/CSFFunctions.png)
@@ -48,7 +56,7 @@ Can be applied to CSF Organizational Profiles to characterize the rigor of an or
 
 ### Components Benefit 
 An organization can use the `CSF Core`, `Profiles`, and `Tiers` with the supplementary resources to:
-* Understand, assess. (Describe the current or target cybersecurity posture) 
+* Understand, assess. (Describe the current or target cybersecurity posture & determine gaps) 
 * Prioritize. (Identify, organize, and prioritize actions for managing cybersecurity risks)
 * Communicate cybersecurity risks.  (Provide a common language for communicating inside and outside the organization about cybersecurity risks, capabilities, needs, and expectations)
 
