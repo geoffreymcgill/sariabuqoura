@@ -18,6 +18,10 @@ Ideally, the CSF will be used to address `cybersecurity risks` alongside other r
 
 The CSF describes desired outcomes that are intended to be understood by a broad audience,including executives, managers, and practitioners, regardless of their cybersecurity expertise. 
 
+While many cybersecurity risk management activities focus on preventing negative events from occurring, they may also support taking advantage of positive opportunities. Actions to reduce cybersecurity risk might benefit an organization in other ways, like increasing revenue.
+(e.g., first offering excess facility space to a commercial hosting provider for hosting their own and other organizations’ data centers, then moving a major financial system from the organization’s in-house data center to the hosting provider to reduce cybersecurity risks).
+
+
 > [!NOTE] Outcomes
 > * Outcomes are clear, measurable security results that an organization aims to achieve.
 > * Outcomes describe the desired security state.
