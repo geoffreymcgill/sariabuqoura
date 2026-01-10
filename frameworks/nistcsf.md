@@ -46,6 +46,7 @@ The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOV
 
 The CSF Core is forward-looking and intended to apply to future changes in technologies and environments.
 
+Please see [Outcomes](https://www.nist.gov/document/csf-20-implementation-examples-xlsx))
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
 * CSF Functions as a wheel because all of the Functions relate to one another.For example:
