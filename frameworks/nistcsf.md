@@ -82,7 +82,7 @@ An organization can use the `CSF Core`, `Profiles`, and `Tiers` with the supplem
 !!!
 
 ## Sources
-* https://www.nist.gov/cyberframework
-* https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+* Please see [NIST](https://www.nist.gov/cyberframework)
+* Please see [NIST CSP PDF](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 
 
