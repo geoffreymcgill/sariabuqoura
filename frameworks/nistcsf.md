@@ -16,6 +16,7 @@ It offers a taxonomy of high level cybersecurity outcomes that can be used by an
 
 Ideally, the CSF will be used to address `cybersecurity risks` alongside other risks of the enterprise, including those that are `financial`, `privacy`, `supply chain`, `reputational`, `technological`, or `physical` in nature.
 
+The CSF describes desired outcomes that are intended to be understood by a broad audience,including executives, managers, and practitioners, regardless of their cybersecurity expertise. 
 
 > [!NOTE] Outcomes
 > * Outcomes are clear, measurable security results that an organization aims to achieve.
