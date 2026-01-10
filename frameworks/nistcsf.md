@@ -44,6 +44,7 @@ The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOV
 * RESPOND: Actions regarding a detected cybersecurity incident are taken.
 * RECOVER: Assets and operations affected by a cybersecurity incident are restored.
 
+The CSF Core is forward-looking and intended to apply to future changes in technologies and environments.
 
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
