@@ -6,7 +6,7 @@ Last Update on Jan, 2026.
 
 - **Govern** **(GV)**: Elevates cybersecurity from IT to a business imperative, linking it to financial and legal risk.
   - **Organizational Context (OC)**: Defining the organization’s mission, stakeholders, and legal requirements.
-  -** Risk Management Strategy (RM)**: Establish overall cyber risk appetite and strategy
+  - **Risk Management Strategy (RM)**: Establish overall cyber risk appetite and strategy
   - **Roles & Responsibilities (RR)**: Clarifying who does what in cybersecurity
   - **Policy (PO)**: Developing and enforcing cybersecurity policies
   - **Oversight (OV)**: Monitoring and ensuring compliance with policies
