@@ -46,7 +46,7 @@ The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOV
 
 The CSF Core is forward-looking and intended to apply to future changes in technologies and environments.
 
-Please see [Outcomes](https://www.nist.gov/document/csf-20-implementation-examples-xlsx))
+Please see [Outcomes](https://www.nist.gov/document/csf-20-implementation-examples-xlsx)
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
 * CSF Functions as a wheel because all of the Functions relate to one another.For example:
@@ -58,6 +58,8 @@ Please see [Outcomes](https://www.nist.gov/document/csf-20-implementation-exampl
 ===
 ==- 2- CSF Organizational Profiles
 A mechanism for describing an organization’s current and/or target cybersecurity posture in terms of the CSF Core’s outcomes.
+
+Please see [Profiles](https://www.nist.gov/document/csf-20-organizational-profile-template)
 ![CSF Organizational Profile](/static/images/CSFOrganizationalProfile.png)
 ===
 ==- 3- CSF Tiers
