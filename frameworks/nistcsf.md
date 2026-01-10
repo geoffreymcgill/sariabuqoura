@@ -47,6 +47,11 @@ The CSF Core Functions — GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, and RECOV
 
 ![Framework Core Categories and Functions](/static/images/CSFCore.png)
 
+* CSF Functions as a wheel because all of the Functions relate to one another.For example:
+* an organization will categorize assets under IDENTIFY and take steps to secure those assets under PROTECT.
+* Investments in planning and testing in the GOVERN and IDENTIFY Functions will support timely detection of unexpected events in the DETECT Function, as well as enabling incident response and recovery actions for cybersecurity incidents in the RESPOND and RECOVER Functions.
+* GOVERN is in the center of the wheel because it informs how an organization will implement the other five Functions. 
+
 ![CSF Functions](/static/images/CSFFunctions.png)
 ===
 ==- 2- CSF Organizational Profiles
