@@ -14,6 +14,9 @@ The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, govern
 
 It offers a taxonomy of high level cybersecurity outcomes that can be used by any organization regardless of its size, sector, or maturity to better understand, assess, prioritize, and communicate its cybersecurity efforts.
 
+Ideally, the CSF will be used to address `cybersecurity risks` alongside other risks of the enterprise, including those that are `financial`, `privacy`, `supply chain`, `reputational`, `technological`, or `physical` in nature.
+
+
 > [!NOTE] Outcomes
 > * Outcomes are clear, measurable security results that an organization aims to achieve.
 > * Outcomes describe the desired security state.
