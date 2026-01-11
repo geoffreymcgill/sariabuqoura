@@ -23,7 +23,7 @@ The circumstances — mission, stakeholder expectations, dependencies, and legal
 ==- Implementation Examples
 
 - GV.OC-01:  The organizational mission is understood and informs cybersecurity risk management
-  - [] Ex1:  Share the organization’s mission (e.g., through vision and mission statements, marketing, and service strategies) to provide a basis for identifying risks that may impede that mission
+  - Ex1:  Share the organization’s mission (e.g., through vision and mission statements, marketing, and service strategies) to provide a basis for identifying risks that may impede that mission
 
 - GV.OC-02: Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered
   - Ex1:  Identify relevant internal stakeholders and their cybersecurity-related expectations (e.g., performance and risk expectations of officers, directors, and advisors; cultural expectations of employees)
