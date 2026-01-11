@@ -76,7 +76,7 @@ The circumstances — mission, stakeholder expectations, dependencies, and legal
 * GV.OV-03: Organizational cybersecurity risk management performance is evaluated and reviewed for adjustments needed
 
 ===
-###Cybersecurity Supply Chain Risk Management (GV.SC)
+### Cybersecurity Supply Chain Risk Management (GV.SC)
 ==- Subcategory
 
 * GV.SC-01: A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders
