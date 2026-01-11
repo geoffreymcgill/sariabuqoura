@@ -40,9 +40,9 @@ The circumstances — mission, stakeholder expectations, dependencies, and legal
 ===
 
 
+### Risk Management Strategy (GV.RM)
 
-
-==- Risk Management Strategy (GV.RM)
+==- Subcategory
 
 * GV.RM-02: Risk appetite and risk tolerance statements are established, communicated, and maintained
 * GV.RM-03: Cybersecurity risk management activities and outcomes are included in enterprise risk management processes
@@ -52,7 +52,9 @@ The circumstances — mission, stakeholder expectations, dependencies, and legal
 * GV.RM-07: Strategic opportunities (i.e., positive risks) are characterized and are included in organizational cybersecurity risk discussions
 
 ===
-==- Roles, Responsibilities, and Authorities (GV.RR)
+
+### Roles, Responsibilities, and Authorities (GV.RR)
+==- Subcategory
 
 * GV.RR-01: Organizational leadership is responsible and accountable for cybersecurity risk and fosters a culture that is risk-aware, ethical, and continually improving
 * GV.RR-02: Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced
@@ -60,19 +62,22 @@ The circumstances — mission, stakeholder expectations, dependencies, and legal
 * GV.RR-04: Cybersecurity is included in human resources practices
 
 ===
-==- Policy (GV.PO)
+### Policy (GV.PO)
+==- Subcategory
 
 * GV.PO-01: Policy for managing cybersecurity risks is established based on organizational context, cybersecurity strategy, and priorities and is communicated and enforced
 * GV.PO-02: Policy for managing cybersecurity risks is reviewed, updated, communicated, and enforced to reflect changes in requirements, threats, technology, and organizational mission
 
 ===
-==- Oversight (GV.OV)
+### Oversight (GV.OV)
+==- Subcategory
 * GV.OV-01: Cybersecurity risk management strategy outcomes are reviewed to inform and adjust strategy and direction
 * GV.OV-02: The cybersecurity risk management strategy is reviewed and adjusted to ensure coverage of organizational requirements and risks
 * GV.OV-03: Organizational cybersecurity risk management performance is evaluated and reviewed for adjustments needed
 
 ===
-==- Cybersecurity Supply Chain Risk Management (GV.SC)
+###Cybersecurity Supply Chain Risk Management (GV.SC)
+==- Subcategory
 
 * GV.SC-01: A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders
 * GV.SC-02: Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally
